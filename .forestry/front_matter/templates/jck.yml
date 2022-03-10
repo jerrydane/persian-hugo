@@ -1,4 +1,10 @@
 ---
 label: jck
 hide_body: false
-fields: []
+fields:
+- name: home
+  type: text
+  config:
+    required: false
+  label: home
+  description: This is a home page
