@@ -8,3 +8,5 @@ fields:
     required: false
   label: home
   description: This is a home page
+pages:
+- content/draft.md
